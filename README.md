@@ -7,7 +7,7 @@ This repository contains a simple implementation of the classic Tic-Tac-Toe game
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/SHAHUL-AHMED-77/TIC_TAC_TOE.git
+    git clone https://github.com/SyedShahulAhmed/TIC_TAC_TOE.git
     cd tic-tac-toe
     ```
 
